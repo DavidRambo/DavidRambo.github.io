@@ -1,0 +1,9 @@
+  <nav>
+    <a class="nav-title" href="/" {% if page.url == "/" %}style="border: 2px dashed; border-color:teal; text-decoration: none;"{% endif %}>David Rambo</a>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="border: 2px dashed; border-color:teal; text-decoration: none;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+    <a href="assets/Rambo_CV.pdf" target="_blank" class="nav-page" "nav-CV">C.V.</a>
+  </nav>

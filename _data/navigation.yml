@@ -1,0 +1,10 @@
+#- name: DAVID RAMBO
+#  link: /
+- name: Publications
+  link: /publications.html
+- name: Research
+  link: /research.html
+- name: Teaching
+  link: /teaching.html
+- name: Bio
+  link: /bio.html

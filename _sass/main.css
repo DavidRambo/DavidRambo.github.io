@@ -1,0 +1,204 @@
+/* Color Codes
+#FFFFF0 - Ivory
+#ADA8B6 - Silver Chalice
+#23022E - Middle Red Purple
+#573280 - Regalia
+#000000 - Registration Black
+/*    background-color: #00F2F2;*/
+/* Global
+---------*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+html {
+  background-color: white;
+  margin-left: 1em;
+  margin-right: 1em;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Palatino", "Georgia", serif;
+  max-width: 950px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+}
+
+p {
+  line-height: 1.2em;
+}
+
+.bio {
+  text-align: justify;
+}
+
+.cv {
+  /*  font-size: 1.5em;*/
+  text-decoration: none;
+  color: #096B72;
+}
+
+a {
+//  color: blue;
+}
+
+a:hover {
+  text-decoration-line: none;
+  border-bottom: 2px dashed;
+}
+
+a:visited {
+  color: purple;
+}
+
+/* Navigation
+---------*/
+nav {
+  padding-top: 20px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  position: relative;
+}
+
+.nav-title {
+  font-size: 2em;
+  padding: 5px 5px 0px 5px;
+  margin: 10px 10px;
+  text-transform: uppercase;
+}
+
+.nav-page {
+  margin: 5px;
+  padding: 2px;
+}
+
+nav a:link {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+nav a:visited {
+  color: #000000;
+}
+
+/* ----------------------
+Header
+-------------------------*/
+header {
+  text-align: center;
+  /*  max-width: 800px;*/
+  border-width: auto;
+  border: 1px solid black;
+  box-shadow: 0px 5px 5px 5px #573280;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------------------
+Footer
+-----------------------*/
+
+
+/*----------------------
+Home/Index
+-----------------------*/
+.body-index {
+  min-height: 900px;
+}
+
+.container-profile {
+  float: left;
+  width: 40%;
+  height: 100px;
+  margin-top: auto;
+  flex-flow: row wrap; /* is this doing anything? */
+}
+
+.home-text {
+  margin-left: 10px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.img-profile {
+  float: right;
+  margin-right: 20px;
+  max-width: 50%;
+  height: auto;
+  width: auto;
+  box-shadow: 2px 2px 2px 2px #573280;
+}
+
+/* ----------------------
+Publications
+-----------------------*/
+.publication {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 10px;
+  overflow: hidden;
+  border-top: 2px dashed teal;
+}
+
+.pub-title {
+  width: 30%;
+  float: left;
+  padding-right: 10px;
+  min-height: 200px;
+  color: #573280;
+}
+
+.pub-abstract {
+  width: 70%;
+  float: right;
+  text-align: justify;
+  padding-left: 10px;
+  min-height: 200px;
+  margin-bottom: 20px;
+}
+
+.pub-img {
+  box-sizing: content-box;
+  max-width: 90%;
+  height: auto;
+  width: auto;
+  margin: 10px;
+  align-items: center;
+}
+
+.publication img {
+  box-sizing: content-box;
+  margin: 10px;
+  max-width: 600px;
+  height: auto;
+  width: auto;
+
+}
+
+/* ----------------------
+Teaching
+-----------------------*/
+p {
+  text-align: justify;
+}
+
