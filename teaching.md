@@ -15,7 +15,7 @@ title: teaching
 
   <br>
 
-  <p style="text-align: center;"><a href="assets/teaching/teaching-award-2016.pdf" alt="Award for Top 5% of Courses in 2016">Award for Course Quality in 2016</a></p>
+  <p style="text-align: center;"><a href="assets/teaching/teaching-award-2016.pdf" alt="Award for Top 5% of Courses in 2016" target="_blank">Award for Course Quality in 2016</a></p>
   <br>
   <hr>
 </section>
