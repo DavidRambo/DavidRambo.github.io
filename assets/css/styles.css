@@ -253,31 +253,4 @@ Bio
   width: 55%;
   float: right;
   height: auto;
-
-  /*  margin-top: auto;*/
-  /*  text-align: left;*/
-  /*  line-height: 1.5;*/
 }
-
-
-/*
-.container-bio {
-  display: flex;
-  flex-flow: row wrap;
-}
-
-.bio-img {
-  max-width: 40%;
-  height: auto;
-  width: auto;
-  display: flex;
-  justify-content: center;
-}
-
-.bio-text {
-  max-width: 300px;
-  height: auto;
-  display: flex;
-  justify-content: center;
-}
-*/
