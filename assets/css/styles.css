@@ -202,7 +202,7 @@ Publications
 }
 
 .pub-abstract {
-  width: 70%;
+  width: 65%;
   float: right;
   text-align: justify;
   padding-left: 10px;
@@ -214,6 +214,10 @@ Publications
   margin-left: auto;
   margin-right: auto;
   max-width: 90%;
+}
+
+.pub-link {
+  text-decoration: none;
 }
 
 /* ----------------------
