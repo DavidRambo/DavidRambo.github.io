@@ -21,7 +21,7 @@ title: teaching
 </section>
 
 <section>
-  <h3 style="text-align: center;">You can read my teaching statement <a href="" target="_blank">here</a>.</h3>
+  <h3 style="text-align: center;">You can read my teaching statement <a href="/assets/teaching/Teaching%20Statement.pdf" target="_blank">here</a>.</h3>
   <hr>
 </section>
 
