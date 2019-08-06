@@ -35,7 +35,7 @@ title: teaching
     <li>
       <a href="assets/teaching/Media-Theory-and-Technology-Studies.pdf" title="Media Theory and Technology Studies" target="_blank">Media Theory and Technology Studies</a> (syllabus sketch)</li>
     <li>
-      <a href="assets/teaching/Memory-in-Text-and-Image.pdf" title="Memory in Text and Image" target="_blank">Memory in Text and Image</a> (sylabus sketch)</li>
+      <a href="assets/teaching/Memory-in-Text-and-Image.pdf" title="Memory in Text and Image" target="_blank">Memory in Text and Image</a> (syllabus sketch)</li>
   </ul>
   <p class="teaching-note">Please see my C.V. for a full list of my teaching experience.</p>
   <br>
